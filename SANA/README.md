@@ -1,15 +1,4 @@
 Group 6: 
-	
-Wen, Yining     
-	
-Savani, Shivam
-	
-Barua, Siddhant
-	
-Gao, Xiaojie
-
-
-
 
 Set up:
 
